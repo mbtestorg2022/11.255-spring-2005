@@ -19,12 +19,81 @@ Every student is expected to submit bi-weekly journal entries commenting on the 
      
 5.  Journal entries should be typed and printed with margins large enough for handwritten comments. Then staple, tape or glue the entry to a composition book.
 
-| Lec # | ASSIGNMENTS |
-| --- | --- |
-| 4 | Journal 1 ([PDF]({{< baseurl >}}/resources/journassn_1)) |
-| 7 | Journal 1 due |
-| 8 | Journal 2 ([PDF]({{< baseurl >}}/resources/journalassn_2)) |
-| 11 | Journal 2 due, Journal 3 ([PDF]({{< baseurl >}}/resources/journalassn_3)) |
-| 14 | Journal 3 due, Journal 4 ([PDF]({{< baseurl >}}/resources/journalassn_4)) |
-| 17 | Journal 4 due, Journal 5 ([PDF]({{< baseurl >}}/resources/journalassn_5)) |
-| 20 | Journal 5 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 1 ([PDF]({{< baseurl >}}/resources/journassn_1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 2 ([PDF]({{< baseurl >}}/resources/journalassn_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 2 due, Journal 3 ([PDF]({{< baseurl >}}/resources/journalassn_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 3 due, Journal 4 ([PDF]({{< baseurl >}}/resources/journalassn_4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 4 due, Journal 5 ([PDF]({{< baseurl >}}/resources/journalassn_5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Journal 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
