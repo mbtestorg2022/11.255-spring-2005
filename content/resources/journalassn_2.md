@@ -4,6 +4,7 @@ description: This resource contains five questions based on stakeholders in publ
   disputes, redstone negotiation, and readings so far.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/58258e6c4257fa5c21f02512cea03bcf_journalassn_2.pdf
 file_type: application/pdf
+parent_uid: de540165-4a4c-f1bb-7ae8-cb3a4559f987
 resourcetype: Document
 title: journalassn_2.pdf
 uid: 58258e6c-4257-fa5c-21f0-2512cea03bcf

@@ -5,6 +5,7 @@ description: 'A discussion on: the conventional wisdom about negotiation, assump
   to a Negotiated Agreement), invent options for mutual gain, and negotiation power.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2005/c0976ca4433e720819da9a6e390be9d7_lect2.pdf
 file_type: application/pdf
+parent_uid: c510740e-2d6e-ce80-2834-2d7da0468924
 resourcetype: Document
 title: lect2.pdf
 uid: c0976ca4-433e-7208-19da-9a6e390be9d7
